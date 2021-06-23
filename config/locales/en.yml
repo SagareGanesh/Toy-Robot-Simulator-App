@@ -31,3 +31,6 @@
 
 en:
   hello: "Hello world"
+  games:
+    invalid_move: "Invalid Move!!!"
+    invalid_direction: "Invalid Direction!!!"
